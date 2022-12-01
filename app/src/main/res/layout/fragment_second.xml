@@ -83,7 +83,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/editTextTextPersonName2" />
+        app:layout_constraintTop_toBottomOf="@+id/model_creation_device_et" />
 
     <ImageView
         android:id="@+id/imageView_edit"
@@ -146,7 +146,7 @@
         android:importantForAutofill="no" />
 
     <EditText
-        android:id="@+id/editTextTextPersonName2"
+        android:id="@+id/model_creation_device_et"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:ems="10"
